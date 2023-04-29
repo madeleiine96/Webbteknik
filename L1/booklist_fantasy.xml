@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE booklist SYSTEM "booklist.dtd">
+
+
+<booklist>
+
+        <genre>Fantasy</genre>
+
+        <book language="eng">
+
+                <title>Harry Potter and the Philosopher's Stone</title>
+                <author>
+                        <firstName>J.K</firstName>
+                        <lastName>Rowling</lastName>
+                </author>
+                <publisher>Bloomsbury Publishing PLC</publisher>
+                <publishYear ISBN="9780747532743">1997</publishYear>
+                <pageNumber>224</pageNumber>
+                <plot>
+                        Harry Potter is an ordinary boy who lives in a cupboard under the stairs at his Aunt Petunia and Uncle Vernon's house, which he thinks is normal for someone like him who's parents have been killed in a 'car crash'. He is bullied by them and his fat, spoilt cousin Dudley, and lives a very unremarkable life with only the odd hiccup (like his hair growing back overnight!) to cause him much to think about. That is until an owl turns up with a letter addressed to Harry and all hell breaks loose! He is literally rescued by a world where nothing is as it seems and magic lessons are the order of the day. Read and find out how Harry discovers his true heritage at Hogwarts School of Wizardry and Witchcraft, the reason behind his parents mysterious death, who is out to kill him, and how he uncovers the most amazing secret of all time, the fabled Philosopher's Stone! All this and muggles too. Now, what are they?
+                </plot>
+                <bookSerie numberInSerie="1">Harry Potter</bookSerie>
+                <bookcover image="pictures/philosophersStone" illustrator="Mary Grandpré" />
+                <buyBook url="https://www.alibris.co.uk/search/books/isbn/9780747532743" />
+        </book>
+
+        <book language="swe">
+
+                <title>Eld</title>
+                <author>
+                        <firstName>Mats</firstName>
+                        <lastName>Strandberg</lastName>
+                </author>
+                <author>
+                        <firstName>Sara</firstName>
+                        <lastName>Bergmark Elfgren</lastName>
+                </author>
+                <publisher>Rabén &amp; Sjögren</publisher>
+                <publishYear edition="1" ISBN="9789129704860">2017</publishYear>
+                <pageNumber>638</pageNumber>
+                <plot>
+                        De utvalda ska börja andra året på gymnasiet. Hela sommarlovet har de hållit andan i väntan på demonernas nästa drag. Men hotet kommer från ett håll de aldrig kunnat förutse. Det blir alltmer uppenbart att något är väldigt, väldigt fel i Engelsfors. Det förflutna vävs ihop med nuet. De levande möter de döda. De utvalda knyts allt tätare till varandra och påminns återigen om att magi inte kan lindra olycklig kärlek eller laga krossade hjärtan.
+                </plot>
+                <bookSerie numberInSerie="2">Engelsfors-trilogin</bookSerie>
+                <bookcover image="pictures/eld" />
+                <buyBook url="https://www.adlibris.com/se/bok/eld-9789129704860" />
+        </book>
+
+
+        <book language="eng">
+
+                <title>Harry Potter and the Goblet of Fire</title>
+                <author>
+                        <firstName>J.K</firstName>
+                        <lastName>Rowling</lastName>
+                </author>
+                <publisher>Bloomsbury Publishing PLC</publisher>
+                <publishYear ISBN="9780747550990">2001</publishYear>
+                <pageNumber>636</pageNumber>
+                <plot>
+                        The summer holidays are dragging on and Harry Potter can't wait for the start of the school year. It is his fourth year at Hogwarts School of Witchcraft and Wizardry and there are spells to be learnt and (unluckily) Potions and Divination lessons to be attended. But Harry can't know that the atmosphere is darkening around him, and his worst enemy is preparing a fate that it seems will be inescapable . . .
+                </plot>
+                <bookSerie numberInSerie="4">Harry Potter</bookSerie>
+                <bookcover image="pictures/gobletOfFire" />
+                <buyBook url="https://www.abebooks.co.uk/9780747550990/Harry-Potter-Goblet-Fire-Book-0747550999/plp" />
+        </book>
+
+        <book language="swe">
+
+                <title>Nyckeln</title>
+                <author>
+                        <firstName>Mats</firstName>
+                        <lastName>Strandberg</lastName>
+                </author>
+                <author>
+                        <firstName>Sara</firstName>
+                        <lastName>Bergmark Elfgren</lastName>
+                </author>
+                <publisher>Rabén &amp; Sjögren</publisher>
+                <publishYear edition="1" ISBN="9789129704877">2017</publishYear>
+                <pageNumber>818</pageNumber>
+                <plot>
+                        Det har gått drygt en månad sedan tragedin i Engelsfors gymnasiums gympasal. De utvalda får ingen tid att återhämta sig innan deras värld vänds upp och ner igen. Frågor besvaras. Hemligheter avslöjas. Lojaliteter prövas. Tiden håller på att rinna ut och till slut kan De utvalda bara vara säkra på en sak: Allt kommer att förändras.
+                </plot>
+                <bookSerie numberInSerie="3">Engelsfors-trilogin</bookSerie>
+                <bookcover image="pictures/nyckeln" />
+                <buyBook url="https://www.adlibris.com/se/bok/nyckeln-9789129704877" />
+        </book>
+
+
+</booklist>

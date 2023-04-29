@@ -1,0 +1,45 @@
+<!--
+booklist
+	genre
+	book*
+                attr: language (eng/swe/den)
+		title
+		author+
+                        firstName
+                        lastName
+		publisher
+                publishYear
+                        attr: edition?
+			attr: ISBN
+		pageNumber
+		plot?
+		bookSerie?
+			attr: numberInSerie?
+		bookcover?
+			attr: image
+			attr: illustrator?
+		buyBook
+			attr: url
+-->
+
+
+<!ELEMENT booklist (genre, book*)>
+	<!ELEMENT genre (#PCDATA)>
+	<!ELEMENT book (title, author+, publisher, publishYear, pageNumber, plot?, bookSerie?, bookcover?, buyBook)>
+		<!ATTLIST book language (eng|swe|den) #REQUIRED>
+		<!ELEMENT title (#PCDATA)>
+		<!ELEMENT author (firstName, lastName)>
+			<!ELEMENT firstName (#PCDATA)>
+			<!ELEMENT lastName (#PCDATA)>
+		<!ELEMENT publisher (#PCDATA)>
+		<!ELEMENT publishYear (#PCDATA)>
+			<!ATTLIST publishYear edition CDATA #IMPLIED ISBN CDATA #REQUIRED>
+		<!ELEMENT pageNumber (#PCDATA)>
+		<!ELEMENT plot (#PCDATA)>
+		<!ELEMENT bookSerie (#PCDATA)>
+			<!ATTLIST bookSerie numberInSerie CDATA #IMPLIED>
+		<!ELEMENT bookcover EMPTY>
+				<!ATTLIST bookcover image CDATA #REQUIRED illustrator CDATA #IMPLIED>
+		<!ELEMENT buyBook EMPTY>
+				<!ATTLIST buyBook url CDATA #REQUIRED>
+

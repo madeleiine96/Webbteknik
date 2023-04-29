@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE booklist SYSTEM "booklist.dtd">
+
+
+<booklist>
+
+        <genre>Romance</genre>
+
+
+        <book language="eng">
+
+                <title>The Last Song</title>
+                <author>
+                        <firstName>Nicholas</firstName>
+                        <lastName>Sparks</lastName>
+                </author>
+                <publisher>Grand Central Publishing</publisher>
+                <publishYear ISBN="9780446547567">2009</publishYear>
+                <pageNumber>390</pageNumber>
+                <plot>
+                        Seventeen-year-old Veronica 'Ronnie' Miller's life was turned upside-down when her parents divorced and her father moved from New York City to Wilmington, North Carolina. Three years later, she remains angry and alienated from her parents, especially her father . . . until her mother decides it would be in everyone's best interest if she spent the summer in Wilmington with him. Ronnie's father, a former concert pianist and teacher, is living a quiet life in the beach town, immersed in creating a work of art that will become the centerpiece of a local church.
+                </plot>
+                <bookcover image="pictures/lastsong" />
+                <buyBook url="https://www.abebooks.co.uk/9780446547567/Last-Song-Sparks-Nicholas-0446547565/plp" />
+        </book>
+
+        <book language="swe">
+
+                <title>Det slutar med oss</title>
+                <author>
+                        <firstName>Colleen</firstName>
+                        <lastName>Hoover</lastName>
+                </author>
+                <publisher>Lovereads</publisher>
+                <publishYear ISBN="9789188803719">2009</publishYear>
+                <pageNumber>409</pageNumber>
+                <plot>
+                        Lily har inte alltid haft det lätt och varit tvungen att jobba hårt för det liv hon vill ha. Det har varit en lång resa från uppväxten i Maine, hon har gått ut college, flyttat till Boston och fullföljt sin dröm om att öppna en egen blomsterhandel. Så när hon och den ursnygge neurokirurgen Ryle förälskar sig i varandra verkar Lilys liv nästan för bra för att vara sant.
+
+                        Ryle är känslig, intelligent och väldigt svag för Lily. Men han är också självsäker, envis och kanske till och med lite arrogant. När Lily tvingas ifrågasätta sitt förhållande med Ryle börjar hon också tänka på Atlas. Han var hennes första kärlek och en viktig länk till hennes förflutna. När han plötsligt dyker upp i hennes liv igen, hotas allt Lily byggt upp med Ryle.
+                </plot>
+                <bookcover image="pictures/slutar_med_oss" illustrator="Miroslav Sokcic" />
+                <buyBook url="https://www.adlibris.com/se/bok/det-slutar-med-oss-9789188803719" />
+        </book>
+
+        <book language="den">
+
+                <title>Romantiske haver</title>
+                <author>
+                        <firstName>Claus</firstName>
+                        <lastName>Dalby</lastName>
+                </author>
+                <publisher>Klematis</publisher>
+                <publishYear edition="1" ISBN="9788771391251">2015</publishYear>
+                <pageNumber>396</pageNumber>
+                <plot>
+                        Mange drømmer om at skabe en romantisk have. Denne bog viser, hvordan en række mennesker har gjort drømmen til virkelighed. Claus Dalby har gennem flere sæsoner besøgt og fotograferet spændende og romantiske haver i Frankrig, Belgien, Holland, England og Skandinavien. Til trods for den store geografiske spredning er der masser af inspiration at hente for danske haveejere. Bogen er samtidig en hyldest til roserne, som har en fremtrædende plads i mange af de skønne haver.
+                </plot>
+                <bookcover image="pictures/romantiskeHaver" />
+                <buyBook url="https://www.adlibris.com/se/bok/romantiske-haver-9788771391251" />
+        </book>
+
+        <book language="swe">
+
+                <title>Att välja den rätte </title>
+                <author>
+                        <firstName>Jill</firstName>
+                        <lastName>Mansell</lastName>
+                </author>
+                <publisher>Lovereads</publisher>
+                <publishYear ISBN="9789189357730">2022</publishYear>
+                <pageNumber>443</pageNumber>
+                <plot>
+                        Det är inte kärlek Lottie Carlyle är ute efter när hon träffar sin nya chef, Tyler Klein. Hon är nöjd med sitt lugna liv som det är: med det vackra huset i en idyllisk by på engelska landsbygden, med sina oftast väluppfostrade barn och den vänskapliga relationen till sin charmige men slarvige ex-make. Men Tyler visar sig vara helt perfekt för Lottie. Som i sagorna ungefär. Snart har hon fallit för honom, och han för henne. Men ändå kan de inte börja leva lyckliga i alla sina dagar.
+
+                        Lotties barn avskyr nämligen Tyler. Och när charmören Seb visar intresse för henne blir barnen tokiga i honom istället. Lottie blir förvirrad; det är svårt att värja sig mot Seb, men samtidigt är han ju inte Tyler.
+
+                        Och kanske är han inte ens den han utger sig för att vara?
+                </plot>
+                <bookSerie numberInSerie="4">Kärlek i Cornwall &amp; Cotswolds</bookSerie>
+                <bookcover image="pictures/valjaDenRatte" />
+                <buyBook url="https://www.adlibris.com/se/bok/att-valja-den-ratte-9789189357730" />
+        </book>
+
+
+</booklist>

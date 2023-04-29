@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <meta charset="UTF-8" />
+            <title>1ME323, Laboration 6a - Flickr API</title>
+            <link rel="stylesheet" type="text/css" href="css/layout.css" />
+            <link rel="stylesheet" type="text/css" href="css/style.css" />
+            <script src="https://maps.googleapis.com/maps/api/js"></script>
+            <script type="text/javascript" src="js/script.js"></script>
+      </head>
+
+      <body>
+            <header>
+                  <h1>1ME323 Webbteknik 3</h1>
+                  <h3>Laboration 6a - Flickr API</h3>
+            </header>
+            <main>
+                  <h2>Sök bilder på Flickr</h2>
+                  <form id="searchForm">
+                        <label>Taggar: <input type="text" name="tags" /></label>
+                        <button type="button" name="searchBtn">Sök</button>
+                  </form>
+                  <hr />
+                  <div id="flickrImg"></div>
+                  <button type="button" id="prevBtn">Föregående sida</button>
+                  <span id="pageNr"></span>
+                  <button type="button" id="nextBtn">Nästa sida</button>
+                  <hr />
+                  <figure id="largeImg">
+                        <img src="" alt="Stor bild" />
+                        <figcaption></figcaption>
+                  </figure>
+                  <div id="map"></div>
+                  <hr />
+                  <p id="imgLocation"></p>
+                  <h4>Fler bilder från samma plats</h4>
+                  <div id="moreImg"></div>
+            </main>
+            <footer>
+                  <p>Laboration 6 i 1ME323 Webbteknik 3 på Linnéuniversitetet</p>
+            </footer>
+      </body>
+</html>

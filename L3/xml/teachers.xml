@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<teachers>
+	<course code="1ME331">
+		<teacher>Jorge Zapico</teacher>
+		<link url="https://lnu.se/personal/jorgeluis.zapico/" />
+	</course>
+	<course code="1ME323">
+		<teacher>Rune Körnefors</teacher>
+		<link url="http://lnu.se/personal/rune.kornefors" />
+	</course>
+	<course code="1ME311">
+		<teacher>Romain Herault</teacher>
+		<link url="https://lnu.se/personal/romain.herault" />
+	</course>
+</teachers>

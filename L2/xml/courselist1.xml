@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE courselist SYSTEM "courselist.dtd">
+
+<courselist>
+	
+	<subject>Medieteknik</subject>
+	
+	<course>
+		<code>1ME311</code>
+		<title>Digitala medier</title>
+		<credits>7,5</credits>
+		<description>Grafik, ljud, text och layout i en multimedial kontext.</description>
+		<contact>
+			<name>Romain Herault</name>
+			<email>romain.herault@lnu.se</email>
+		</contact>
+		<moreinfo url="http://lnu.se/utbildning/kurser/1ME311"/>
+	</course>
+	
+	<course>
+		<code>1ME314</code>
+		<title>Videoproduktion 1</title>
+		<credits>7,5</credits>
+		<description>Olika delar i videoproduktion, såsom planering, filmning, redigering och distribution.</description>
+		<moreinfo url="http://lnu.se/utbildning/kurser/1ME314"/>
+	</course>
+	
+	<course>
+		<code>1ME323</code>
+		<title>Webbteknik 3</title>
+		<credits>7,5</credits>
+		<description>Struktur och objekt i data och programkod, sökmotoroptimering, m.m.</description>
+		<contact>
+			<name>Rune Körnefors</name>
+			<email>rune.kornefors@lnu.se</email>
+		</contact>
+		<moreinfo url="http://lnu.se/utbildning/kurser/1ME323"/>
+	</course>
+	
+	<course>
+		<code>1ME324</code>
+		<title>Webbteknik 4</title>
+		<credits>7,5</credits>
+		<description>Serverbaserad webbutveckling med skriptspråket PHP och databashantering med MySQL.</description>
+		<contact>
+			<name>Henrik Andersen</name>
+			<email>henrik.andersen@lnu.se</email>
+		</contact>
+		<moreinfo url="http://lnu.se/utbildning/kurser/1ME324"/>
+	</course>
+	
+	<course>
+		<code>1ME331</code>
+		<title>Interaktionsdesign 1</title>
+		<credits>7,5</credits>
+		<description>Grunderna i användbarhet och interaktion med fokus på användaren.</description>
+		<moreinfo url="http://lnu.se/utbildning/kurser/1ME331"/>
+	</course>
+	
+</courselist>

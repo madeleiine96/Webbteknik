@@ -1,0 +1,27 @@
+<!--
+courselist
+	subject
+	course*
+		code
+		title
+		credits
+		description?
+		contact?
+			name
+			email
+		moreinfo
+			attr: url
+-->
+
+<!ELEMENT courselist (subject, course*)>
+	<!ELEMENT subject (#PCDATA)>
+	<!ELEMENT course (code, title, credits, description?, contact?, moreinfo)>
+		<!ELEMENT code (#PCDATA)>
+		<!ELEMENT title (#PCDATA)>
+		<!ELEMENT credits (#PCDATA)>
+		<!ELEMENT description (#PCDATA)>
+		<!ELEMENT contact (name, email)>
+			<!ELEMENT name (#PCDATA)>
+			<!ELEMENT email (#PCDATA)>
+		<!ELEMENT moreinfo EMPTY>
+				<!ATTLIST moreinfo url CDATA #REQUIRED>

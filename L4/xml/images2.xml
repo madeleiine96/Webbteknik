@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE imagelist SYSTEM "imagelist.dtd">
+
+<imagelist>
+	<category>Fjärilar</category>
+	<image>
+		<url>img/butterflies/img0.jpg</url>
+		<caption>En orange och svart fjäril</caption>
+	</image>
+	<image>
+		<url>img/butterflies/img1.jpg</url>
+		<caption>Blå fjäril</caption>
+	</image>
+	<image>
+		<url>img/butterflies/img2.jpg</url>
+		<caption>Röd med färgade ringar</caption>
+	</image>
+	<image>
+		<url>img/butterflies/img3.jpg</url>
+		<caption>Orange med svarta prickar</caption>
+	</image>
+</imagelist>

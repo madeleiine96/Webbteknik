@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+#imgViewer, #control {
+    width: 100%;
+    text-align: center;
+}
+#imgViewer img {
+    border: 6px ridge #F90;
+    width: 500px;
+    max-width: 100%;
+}
+#imgViewer figcaption {
+    font-style: italic;
+}
+#control button {
+    background-color: #FFF;
+    margin: 0 20px;
+    font-size: 1.2em;
+}
+
+#smallViewers {
+    padding-top: 20px;
+    clear: both;
+}
+#smallViewers div {
+    display: inline-block;
+    width: 120px;
+    margin-right: 10px;
+}
+#smallViewers h3 {
+    margin: 0;
+    font-size: 0.8em;
+}
+#smallViewers img {
+    width: 100%;
+}
+#smallViewers p {
+    display: none;
+}
+
+#menus form {
+    float: left;
+    margin-right: 40px;
+}
+#menus select {
+    font-size: 1em;
+}

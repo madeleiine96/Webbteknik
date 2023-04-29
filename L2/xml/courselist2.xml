@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE courselist SYSTEM "courselist.dtd">
+
+<courselist>
+	
+	<subject>Musikvetenskap</subject>
+	
+	<course>
+		<code>1MV111</code>
+		<title>Musik i film och TV</title>
+		<credits>7,5</credits>
+		<description>Filmmusik ur ett historiskt perspektiv, från stumfilmen till musiken i dagens film.</description>
+		<moreinfo url="http://lnu.se/utbildning/kurser/1MV111"/>
+	</course>
+	
+	<course>
+		<code>1MV338</code>
+		<title>Musikteori I</title>
+		<credits>7,5</credits>
+		<description>Musikens kod: tidsperspektiv, musiklyssning, tonförråd, ackordbygge och funktioner.</description>
+		<contact>
+			<name>Hans-Erik Holgersson</name>
+			<email>hans-erik.holgersson@lnu.se</email>
+		</contact>
+		<moreinfo url="http://lnu.se/utbildning/kurser/1MV338"/>
+	</course>
+	
+	<course>
+		<code>1MV103</code>
+		<title>Musikmiljöer i Europa genom tiderna</title>
+		<credits>15</credits>
+		<contact>
+			<name>Karin Larsson Eriksson</name>
+			<email>karin.eriksson@lnu.se</email>
+		</contact>
+		<moreinfo url="http://lnu.se/utbildning/kurser/1MV103"/>
+	</course>
+	
+</courselist>

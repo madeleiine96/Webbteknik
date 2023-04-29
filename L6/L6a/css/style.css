@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+#searchForm input {
+    margin-right: 20px;
+    font-size: 1em;
+}
+
+#flickrImg img, #moreImg img {
+    width: 100px;
+    margin-right: 10px;
+    border: 3px groove #060;
+    cursor:pointer;
+}
+
+#pageNr {
+    margin: 0 2em;
+}
+
+#largeImg {
+    display: inline-block;
+    width: 48%;
+    margin: 0;
+    padding: 0;
+    margin-right: 2%;
+    vertical-align: top;
+}
+#largeImg img {
+    width: 100%;
+}
+
+#map {
+    display: inline-block;
+    width: 48%;
+    height: 300px;
+    vertical-align: top;
+}

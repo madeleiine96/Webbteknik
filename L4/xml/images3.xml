@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE imagelist SYSTEM "imagelist.dtd">
+
+<imagelist>
+	<category>Katter</category>
+	<image>
+		<url>img/cats/img0.jpg</url>
+		<caption>Kattungar</caption>
+	</image>
+	<image>
+		<url>img/cats/img1.jpg</url>
+		<caption>Lekande katt</caption>
+	</image>
+	<image>
+		<url>img/cats/img2.jpg</url>
+		<caption>Katt med mus</caption>
+	</image>
+	<image>
+		<url>img/cats/img3.jpg</url>
+		<caption>Grå katt</caption>
+	</image>
+	<image>
+		<url>img/cats/img4.jpg</url>
+		<caption>Nyfiken katt</caption>
+	</image>
+	<image>
+		<url>img/cats/img5.jpg</url>
+		<caption>Katt på plank</caption>
+	</image>
+</imagelist>

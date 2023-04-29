@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <meta charset="UTF-8" />
+            <title>1ME323, Laboration 4 - Objekt i JavaScript</title>
+            <link rel="stylesheet" type="text/css" href="css/layout.css" />
+            <link rel="stylesheet" type="text/css" href="css/style.css" />
+            <script type="text/javascript" src="js/script.js"></script>
+      </head>
+
+      <body>
+            <header>
+                  <h1>1ME323 Webbteknik 3</h1>
+                  <h3>Laboration 4 - Objekt i JavaScript</h3>
+            </header>
+            <main>
+                  <h2>Bildspel</h2>
+                  <div id="imgViewer">
+                        <h3></h3>
+                        <!-- Innehåll läggs in av JavaScript -->
+                        <img src="img/blank.png" alt="Bild i bildspel" />
+                        <p></p>
+                  </div>
+                  <div id="control">
+                        <button type="button" id="prevBtn">&larr;</button>
+
+                        <!-- Används i extramerit i lab 4 -->
+                        <button type="button" id="autoBtn">auto</button>
+
+                        <button type="button" id="nextBtn">&rarr;</button>
+                  </div>
+                  <h3>Val av bilder</h3>
+                  <div id="menus">
+                        <form>
+                              <select id="categoryMenu">
+                                    <option>Välj kategori ...</option>
+                                    <option>Blommor</option>
+                                    <option>Fjärilar</option>
+                                    <option>Katter</option>
+                              </select>
+                        </form>
+                        <!-- ----- Används för extramerit i lab 5 ----- -->
+                        <!--
+			<form>
+				<select id="imgViewerMenu">
+					<option>Välj bild ...</option>
+				</select>
+			</form>
+			-->
+                        <!-- ----- Slut på koden för extramerit för lab 5 ----- -->
+                  </div>
+                  <div id="result"></div>
+
+                  <!-- ----- Används för guldstjärna i lab 4 ----- -->
+                  <div id="smallViewers">
+                        <div id="viewer1">
+                              <h3></h3>
+                              <img src="img/blank.png" alt="Bilder i kategori 1" />
+                              <p></p>
+                        </div>
+                        <div id="viewer2">
+                              <h3></h3>
+                              <img src="img/blank.png" alt="Bilder i kategori 2" />
+                              <p></p>
+                        </div>
+                        <div id="viewer3">
+                              <h3></h3>
+                              <img src="img/blank.png" alt="Bilder i kategori 3" />
+                              <p></p>
+                        </div>
+                  </div>
+
+                  <!-- ----- Slut på koden för guldstjärna i lab 4 ----- -->
+            </main>
+            <footer>
+                  <p>Laboration 4 i 1ME323 Webbteknik 3 på Linnéuniversitetet</p>
+            </footer>
+      </body>
+</html>

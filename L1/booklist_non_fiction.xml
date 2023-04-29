@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE booklist SYSTEM "booklist.dtd">
+
+<booklist>
+
+        <genre>Non-fiction</genre>
+
+
+        <book language="eng">
+
+                <title>Ultimate guide to optimizing your Website</title>
+                <author>
+                        <firstName>Jon</firstName>
+                        <lastName>Rognerud</lastName>
+                </author>
+                <publisher>Entrepreneur Press</publisher>
+                <publishYear edition="3" ISBN="9781599185200">2014</publishYear>
+                <pageNumber>320</pageNumber>
+                <plot>
+                        Written for beginners, author Jon Rognerud offers a solid introduction to keyword research and competitive analysis, to marketing and messaging, content development, link building, and conversions and tracking of search engine positions. Local search, social media, and blogging are new to this edition, and show examples on how to optimize these important new development areas.  Updated content includes social media search content that reflects strategies and market information to helps business owners easily add this companion to SEO work, blog optimization steps with best SEO tactics for creating search engine friendly sites, and the top ten hottest WordPress plugins for top traffic boost. A local SEO section shows readers how to avoid the most common mistakes on optimizing for local search and the updated section on Google analytics shows how to track top keywords and pages. An updated link building section provides new white hat SEO link building tactics to provide better long term rankings and traffic building, and an expanded resource section includes updated screen-shots of SEO applied. Step-by-step examples are written with an at the kitchen table type dialogue for accessibility and an advanced strategy section takes readers to the next level.
+                </plot>
+                <bookSerie>Ultimate guide to</bookSerie>
+                <bookcover image="pictures/optimizeWebsite" />
+                <buyBook url="https://www.amazon.co.uk/Ultimate-Guide-Optimizing-Your-Website/dp/1599185202" />
+        </book>
+
+        <book language="swe">
+
+                <title>Effektiv visuell kommunikation : om nyheter, reklam, information och identitet i vår visuella kultur</title>
+                <author>
+                        <firstName>Bo</firstName>
+                        <lastName>Bergström</lastName>
+                </author>
+                <publisher>Carlsson</publisher>
+                <publishYear edition="12" ISBN="9789189063693">2021</publishYear>
+                <pageNumber>267</pageNumber>
+                <plot>
+                        En värld utan bilder, filmer, texter, former och färger är svårt att tänka sig. Lika svårt är det att bortse från de budskap dessa förmedlar. Denna fack- och kursbok, Effektiv visuell kommunikation, ger en övergripande bild av den visuella världen för de professionella kommunikatörerna och studenterna väg in i den. Oavsett om branscherna är nyhetsförmedling, reklam eller information.
+
+                        Men boken tydliggör även effekten av de kommunikativa satsningarna. Ofta blir artikeln läst och affischen styr rakt in i hjärtat - men inte alltid. Vad avgör? Femton kapitel förklarar detta med hjälp av teori, tillämpning, exempel och framför allt inspiration.
+                </plot>
+                <bookcover image="pictures/effektivVisuellKommunikation" />
+                <buyBook url="https://www.adlibris.com/se/bok/effektiv-visuell-kommunikation-om-nyheter-reklam-information-och-identitet-i-var-visuella-kultur-9789189063693" />
+        </book>
+
+        <book language="swe">
+
+                <title>Medieetik : framväxt, funktion, framtid </title>
+                <author>
+                        <firstName>Torbjörn</firstName>
+                        <lastName>von Krogh</lastName>
+                </author>
+                <publisher>Studentlitteratur AB</publisher>
+                <publishYear edition="1" ISBN="9789144103891">2016</publishYear>
+                <pageNumber>290</pageNumber>
+                <plot>
+                        Medieetik är både ett sätt att resonera om och ta ansvar för publicistiskt innehåll i medier och olika reglerade fast frivilliga sätt att utkräva ansvar. Självsaneringen tillkom för att stärka ansvarig journalistik, befästa yrkets ställning, bemöta kritik och förhindra en inskränkande lagstiftning.
+                        Boken ger en bred överblick av medieetikens område och författaren ställer frågor som:
+                        • Vad innebär en etiskt ansvarig hållning från mediernas sida?
+                        • Kan en etisk journalist vara konsekvensneutral?
+                        • Vad påverkar medieetiken och hur har den vuxit fram?
+                        • Har etiken någon framtid när medierna förändras?
+                </plot>
+                <bookcover image="pictures/medieetik" />
+                <buyBook url="https://www.adlibris.com/se/bok/medieetik-framvaxt-funktion-framtid-9789144103891" />
+        </book>
+
+        <book language="eng">
+
+                <title>Strategic Communication</title>
+                <author>
+                        <firstName>Jesper</firstName>
+                        <lastName>Falkheimer</lastName>
+                </author>
+                <author>
+                        <firstName>Mats</firstName>
+                        <lastName>Heide</lastName>
+                </author>
+                <publisher>Routledge</publisher>
+                <publishYear ISBN="9781138657038">2018</publishYear>
+                <pageNumber>160</pageNumber>
+                <plot>
+                        Strategic communication comprises different forms of goal-oriented communication inside and between organizations, their stakeholders and the society. Strategic communication is an emerging practice and research field integrating established disciplines such as public relations, organizational communication and marketing communication into a holistic framework. The field is based on an awareness of the fundamental importance of communication for the existence and performance of all organizations.
+                </plot>
+                <bookcover image="pictures/strategicCommunication" />
+                <buyBook url="https://www.adlibris.com/se/bok/strategic-communication-9781138657038" />
+        </book>
+
+</booklist>
